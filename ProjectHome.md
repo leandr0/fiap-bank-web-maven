@@ -1,0 +1,1 @@
+Projeto para módulo web utilizando maven, prime faces, jsf(rich faces), hibernate e jpa.
